@@ -4,6 +4,8 @@
 
 Starknet AI Town is a virtual town where AI characters live, chat and socialize on Starknet
 
+Interactions are tracked on Starknet and NPC/player characters are presented as NFT token on Starknet
+
 This project is a deployable starter kit for easily building and customizing your own version of AI town.
 Inspired by the research paper [_Generative Agents: Interactive Simulacra of Human Behavior_](https://arxiv.org/pdf/2304.03442.pdf).
 
